@@ -4,14 +4,14 @@
 
 
 ## ScreenShots
-Student Login        |  Result 
+Admin Login        |  Home 
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(10).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(11).png)
+![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(14).png)  |  ![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(15).png)
 
-All Result                    |  Home Page
+Add Student                    |  Add Book
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(12).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(4).png)
+![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(16).png)  |  ![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(17).png)
 
-Admin Login                   |  Add Student
+Issue Book                   |  New
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(13).png)  |  ![](https://raw.githubusercontent.com/Aditya664/Student_Result_Management_In_Java/master/Images/Screenshot%20(8).png)
+![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(18).png)  |  ![](https://raw.githubusercontent.com/Aditya664/library_management_system_javaSwing/master/LibManagment/ss/Screenshot%20(17).png)
