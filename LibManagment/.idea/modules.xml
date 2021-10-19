@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LibManagment.iml" filepath="$PROJECT_DIR$/LibManagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_management_system_javaSwing.iml" filepath="$PROJECT_DIR$/library_management_system_javaSwing.iml" />
     </modules>
   </component>
 </project>
